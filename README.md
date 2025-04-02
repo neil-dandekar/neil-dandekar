@@ -1,7 +1,7 @@
 ## Hi, I'm Neil
 
 - 🔭 I’m a Data Science and Math-CS double major at UC San Diego
-- 🌱 I’m interested in and learning about Deep RL (AI Agents, Robotics) and ML Systems
+- 🌱 I’m interested in and I'm learning about Deep RL (AI Agents, Robotics) and ML Systems
 - 🛠️ I have prior software engineering and ML experience at the Lawrence Berkeley Lab
 - 💬 Please reach out!
 - ✉️ Email: nmdandekar@ucsd.edu
