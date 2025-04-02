@@ -9,6 +9,9 @@
 - 💼 LinkedIn: https://www.linkedin.com/in/neildandekar/
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,git,github,html,css,js,ts,docker,aws,gcp,vscode,jenkins,postgres,mysql,mongodb,redis,spark,react,nodejs,flask,django,fastapi,pytorch,numpy,linux&perline=14" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,git,github,html,css,js,ts,docker,aws,gcp&perline=13" />
 </p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,jenkins,postgres,mysql,mongodb,redis,spark,react,nodejs,flask,django,fastapi,pytorch,numpy,linux&perline=13" />
+</p>
