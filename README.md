@@ -4,12 +4,16 @@
 - 🌱 I’m interested in and I'm learning about Deep RL (AI Agents, Robotics) and ML Systems
 - 📦 I'm interning at Amazon (Summer 2025) as a Software Development Engineer Intern
 - 🛠️ I have prior software engineering and ML experience at the Lawrence Berkeley Lab
-- 💬 Please reach out!
+
+💻 My Tech/Skillset:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,git,github,html,css,js,ts,docker,aws,gcp&perline=13" />
+</p>
+
+
+💬 Please reach out!
 - ✉️ Email: nmdandekar@ucsd.edu
 - 💼 LinkedIn: https://www.linkedin.com/in/neildandekar/
 
 
-My Tech/Skillset:
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,git,github,html,css,js,ts,docker,aws,gcp&perline=13" />
-</p>
+
