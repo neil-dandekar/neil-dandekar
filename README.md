@@ -1,5 +1,7 @@
 ## Hi, I'm Neil
 
+[Checkout my website!](neil-dandekar.github.io)
+
 - 🔭 I’m a Data Science major at UC San Diego
 - 🌱 I’m exploring Deep Reinforcement Learning and its applications in robotics and multi-agent settings
 - 📦 Last summer, I interned at Amazon where I owned, developed, and deployed an agentic platform to automate chaos testing
