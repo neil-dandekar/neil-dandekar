@@ -1,6 +1,6 @@
 ## Hi, I'm Neil
 
-[Checkout my website!](neil-dandekar.github.io)
+[Checkout my website!](https://neil-dandekar.github.io)
 
 - 🔭 I’m a Data Science major at UC San Diego
 - 🌱 I’m exploring Deep Reinforcement Learning and its applications in robotics and multi-agent settings
